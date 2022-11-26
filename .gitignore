@@ -130,5 +130,8 @@ dmypy.json
 
 # VS Code stuff
 .vscode
-input
+
+# data
+vocabulary_files
+backup_files
 output
